@@ -4,7 +4,7 @@ A quick script that can included on any page to make the site grayscale and add 
 
 <img src="blm_footer.jpg">
 
-[Demo website](https://rawcdn.githack.com/freedmand/blm.js/a84ae044421c0ded97091b945e68e5b34e9441e5/example.html)
+<a href="https://rawcdn.githack.com/freedmand/blm.js/8a1e314f60d973e06bcaaaac4d674c51dfcf529d/example.html" target="_blank">Demo website</a>
 
 <img src="blmjs.gif">
 
