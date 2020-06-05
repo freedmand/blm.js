@@ -51,7 +51,7 @@ It will also work if you include it in the `<body>`, though it is not preferable
 
 The <a href="https://svelte.dev">Svelte</a> JavaScript framework made their website grayscale and included a support footer, as documented in this <a href="https://twitter.com/sveltejs/status/1267824283763400707">tweet</a>.
 
-This library is a clone of that idea that makes it easy to include similar such messages on other sites.
+This library endeavors to make it easy to include similar such messages on other sites.
 
 ## License
 
