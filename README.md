@@ -1,10 +1,12 @@
 # blm.js
 
-> A quick script that can included on any page to make the site grayscale and add a support footer for Black Lives Matter and related causes.
+A quick script that can included on any page to make the site grayscale and add a support footer for Black Lives Matter and related causes.
+
+<img src="blm_footer.jpg">
+
+[Demo website](https://rawcdn.githack.com/freedmand/blm.js/master/example.html)
 
 <img src="blmjs.gif">
-
-## [Demo](https://rawcdn.githack.com/freedmand/blm.js/master/example.html)
 
 ## Usage
 
