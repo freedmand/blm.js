@@ -24,28 +24,28 @@ window.addEventListener('load', function () {
   linkBlm.href = 'https://blacklivesmatter.com/';
   linkBlm.target = '_blank';
   linkBlm.rel = 'noopener noreferrer';
-  linkBlm.textContent = 'Black lives matter';
+  linkBlm.textContent = 'Black\xa0lives\xa0matter';
   linkBlm.style.color = linkColor;
 
   var linkCampaignZero = document.createElement('a');
   linkCampaignZero.href = 'https://www.joincampaignzero.org/';
   linkCampaignZero.target = '_blank';
   linkCampaignZero.rel = 'noopener noreferrer';
-  linkCampaignZero.textContent = 'Campaign Zero';
+  linkCampaignZero.textContent = 'Campaign\xa0Zero';
   linkCampaignZero.style.color = linkColor;
 
   var linkEqualJusticeInitiative = document.createElement('a');
   linkEqualJusticeInitiative.href = 'https://support.eji.org/give/153413/#!/donation/checkout';
   linkEqualJusticeInitiative.target = '_blank';
   linkEqualJusticeInitiative.rel = 'noopener noreferrer';
-  linkEqualJusticeInitiative.textContent = 'Equal Justice Initiative';
+  linkEqualJusticeInitiative.textContent = 'Equal\xa0Justice\xa0Initiative';
   linkEqualJusticeInitiative.style.color = linkColor;
 
   var linkLocalBailFunds = document.createElement('a');
   linkLocalBailFunds.href = 'https://bailfunds.github.io/';
   linkLocalBailFunds.target = '_blank';
   linkLocalBailFunds.rel = 'noopener noreferrer';
-  linkLocalBailFunds.textContent = 'local bail funds';
+  linkLocalBailFunds.textContent = 'local\xa0bail\xa0funds';
   linkLocalBailFunds.style.color = linkColor;
 
   var text = document.createElement('span');
